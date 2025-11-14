@@ -1,32 +1,13 @@
-# CalculadoraPython
+# Tarea Obligatoria Unidad 0
 
-Bienvenido a la calculadora gráfica hecha en Python.
+Bienvenido/a a la documentación de la tarea de la Unidad 0 del módulo de Puesta en Producción Segura. 
+En esta web encontrarás el índice y acceso directo a los apartados principales que reflejan los procesos realizados:
 
-## Ejecución
+## Índice de la documentación
 
-Para ejecutarlo tenemos que situarnos dentro de la carpeta del proyecto y ejecutar en el terminal de comandos python3 con el nombre del archivo.py
+- [Creación del repositorio y primeros pasos](git.md)
+- [WorkFlow de GitHub Actions y MkDocs](gitActions.md)
+- [Vinculación y publicación en GitHub Pages](gitPages.md)
+- [Publicación con Docker y NGinx](docker.md)
+- [Conclusiones](conclusiones.md)
 
-```bash
-cd CalculadoraPython
-python3 src/Calculadora.py
-```
-Si se nos muestra un error `ModuleNotFoundError: No module named 'tkinter'`, tenemos que instalar el paquete `python-tk`.
-
-```bash
-# Para Python 3
-sudo apt update
-sudo apt install python3-tk
-```
-## Características
-
-- Interfaz gráfica con Tkinter 
-- Operaciones básicas (+, -, *, /) 
-- Documentación generada con MkDocs 
-
-## Problemas
-
-Si tienes algún problema [pincha aquí](#) o hsfjñisodi 
-
----
-
-Documentation built with [MkDocs](https://www.mkdocs.org).
