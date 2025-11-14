@@ -1,12 +1,5 @@
 # Conclusiones
 
-En este apartado se exponen las conclusiones personales tras la realización de la tarea.
+En esta tarea se ha creado un repositorio en GitHub con la estructura propuesta, documentando el proceso en diferentes archivos Markdown. Se ha configurado un workflow de GitHub Actions para generar y publicar automáticamente la documentación del proyecto con MkDocs y GitHub Pages. 
 
-- Se ha consolidado el manejo de repositorios en GitHub y la estructuración de proyectos.
-- La automatización de documentación web con MkDocs y GitHub Actions es eficiente y sencilla de aplicar.
-- La publicación mediante GitHub Pages facilita el acceso público a las tareas de clase.
-- El uso de Docker para servir documentación con NGinx, aunque redundante en este contexto, es una buena práctica para afianzar los conceptos de contenedores.
-- La documentación detallada, incluyendo capturas y pasos realizados, mejora la transparencia y reproducibilidad del trabajo.
-
-
-
+Por último, se ha montado un contenedor Docker con NGinx, enlazando el directorio generado por MkDocs, para poder visualizar la web de la documentación también desde la máquina local.

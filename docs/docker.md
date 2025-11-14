@@ -23,3 +23,4 @@ docker inspect PPSUnidad0-Tarea_Tu_nombre
 ```
 
 ![Vista del despliegue con docker completamente funcional](images/contdocker.png)
+![Vista del comando inspect con el contenedor levantado](images/inspect.png)
