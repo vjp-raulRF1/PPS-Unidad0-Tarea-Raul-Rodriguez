@@ -26,4 +26,4 @@ git push origin main
 
 ```
 
-Incluye aquí capturas de la terminal y de la interfaz de GitHub mostrando tu usuario y el proceso realizado.
+![Vista del comando tree una vez acabado el ejercicio](images/tree.png)

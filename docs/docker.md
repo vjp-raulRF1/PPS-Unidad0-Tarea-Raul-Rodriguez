@@ -22,4 +22,4 @@ docker ps
 docker inspect PPSUnidad0-Tarea_Tu_nombre
 ```
 
-Incluye capturas de la terminal mostrando los comandos y del navegador accediendo al contenido servido por NGinx.
+![Vista del despliegue con docker completamente funcional](images/contdocker.png)
